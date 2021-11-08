@@ -1,5 +1,5 @@
 # Entry 1
-Amogus X/X/XX
+##### X/X/XX
 
 Text
 
